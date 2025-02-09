@@ -1,6 +1,6 @@
-<a href="https://github.com/Shandilya21/stock_movement_prediction/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Shandilya21/stock_movement_prediction"></a>
-<a href="https://github.com/Shandilya21/stock_movement_prediction/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Shandilya21/stock_movement_prediction"></a>
-<a href="https://github.com/Shandilya21/stock_movement_prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Shandilya21/stock_movement_prediction"></a>
+<a href="https://github.com/mohitKapardar/stock_movement_prediction/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/mohitKapardar/stock_movement_prediction"></a>
+<a href="https://github.com/mohitKapardar/stock_movement_prediction/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/mohitKapardar/stock_movement_prediction"></a>
+<a href="https://github.com/mohitKapardar/stock_movement_prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mohitKapardar/stock_movement_prediction"></a>
 
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
@@ -108,7 +108,7 @@ python3 Stockprediction.py
 
 <br />
 <p align="center">
-  <a href="https://github.com/Shandilya21/stock_movement_prediction">
+  <a href="https://github.com/mohitKapardar/stock_movement_prediction">
     <img src="plot/predicted_stock_price.png" alt="Logo" width="500" height="500">
   </a>
 
@@ -146,7 +146,7 @@ The Technical Indicators are:
 
 The code is working for all the stock names listed in the data, Also you can produce results for other sock prices and amake a comparable plot. The default number of epochs = 5. Feel free to set the epochs from ```StockPreds_withtechnical.py```. Below is a demo for the setup.
 
-![](https://github.com/Shandilya21/stock_movement_prediction/plot/run.gif)
+![](https://github.com/mohitKapardar/stock_movement_prediction/plot/run.gif)
 
 #### Run Experiements
 Before performing experiments, SET the config for the data path. In ```config.py``` Change the **DATA_PATH** to your data path location.
@@ -175,7 +175,7 @@ Here are few reported results related to few stocks with it's data chart
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Shandilya21/stock_movement_prediction/issues) for a list of proposed features (and known issues). Also, if you have any issue, feel free to open a new issue.
+See the [open issues](https://github.com/mohitKapardar/stock_movement_prediction/issues) for a list of proposed features (and known issues). Also, if you have any issue, feel free to open a new issue.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -200,7 +200,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Mohit Kapardar -mohitjnv15901591@gmail.com
+Mohit Kapardar - mohitjnv15901591@gmail.com
 
 <!-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
 
