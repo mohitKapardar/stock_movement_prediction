@@ -88,7 +88,7 @@ Below the the basic step to reproduce the code with few commands.
 
 1. Clone the repository
 ```
-git clone https://github.com/Shandilya21/stock_movement_prediction.git
+git clone https://github.com/mohitKapardar/stock_movement_prediction.git
 ```
 
 ### Prerequisites
